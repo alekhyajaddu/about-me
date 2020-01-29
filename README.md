@@ -2,5 +2,7 @@
 This is my developer website
 
 Hello, my name is Alekhya Jaddu. I`m a new member of the spring batch working on my Masters of Applied Computer Science. I hale from Hyderabad, India. In my free time, I have always enjoyed painting and love to read fiction novels.
+
 I am a Computer Science and Engineering graduate from Vidya Jyothi Institute of Technology. I passed out in the year 2019 and do not have any work experience. As time flew by, I began getting increasingly captivated with CS. Having acquired a good foundation in the field of computer science through my undergraduate program, I wanted to explore the field more and gain knowledge. That’s when I decided to take up masters.
+
 In order to add an extra boost to my understanding of the field, I even went for additional courses on crucial subjects like big data and python. In the future, I see myself as a data scientist. The MS program will most probably add wings to my career aspirations and a perfect chance to pursue my dream and get opportunities to the fullest.
