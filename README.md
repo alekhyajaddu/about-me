@@ -1,8 +1,33 @@
 # about-me
 This is my developer website
 
-Hello, my name is Alekhya Jaddu. I`m a new member of the spring batch working on my Masters of Applied Computer Science. I hale from Hyderabad, India. In my free time, I have always enjoyed painting and love to read fiction novels.
+## Links
+[Source repository](https://github.com/alekhyajaddu?tab=repositories)
 
-I am a Computer Science and Engineering graduate from Vidya Jyothi Institute of Technology. I passed out in the year 2019 and do not have any work experience. As time flew by, I began getting increasingly captivated with CS. Having acquired a good foundation in the field of computer science through my undergraduate program, I wanted to explore the field more and gain knowledge. That’s when I decided to take up masters.
+[Host page]()
+## About
 
-In order to add an extra boost to my understanding of the field, I even went for additional courses on crucial subjects like big data and python. In the future, I see myself as a data scientist. The MS program will most probably add wings to my career aspirations and a perfect chance to pursue my dream and get opportunities to the fullest.
+This repo is about using how git commands work on cloud and local machine.
+
+## Recommended Tools
+
+1. Login in to your [GitHub](https://github.com/) account.
+2. Install [TortiseGit](https://tortoisegit.org/) for pushing and pulling code into the local machine.
+3. Use [Markdown](https://guides.github.com/features/mastering-markdown/) language to edit your repo.
+4. [Visual studio](https://visualstudio.microsoft.com/) for working on desktop.
+
+## Recommended Resources
+
+* [StackOverflow](https://stackoverflow.com/)
+* [BitBucket](https://bitbucket.org/)
+* [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [W3Schools](https://www.w3schools.com/)
+
+## Contributors
+
+Name: Alekhya Jaddu
+
+Course: Applied Computer Science
+
+![image](https://www.history.com/.image/t_share/MTY1MTc1OTc1MjEzMDE2Mzc2/topic-brooklyn-bridge-gettyimages-91680627-promo.jpg)
+* [image credits](https://www.history.com/.image/t_share/MTY1MTc1OTc1MjEzMDE2Mzc2/topic-brooklyn-bridge-gettyimages-91680627-promo.jpg)
