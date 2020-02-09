@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="author" content="Alekhya Jaddu">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="styles/jaddu.css">
 
         <title>User Interaction</title>
 
@@ -20,10 +20,7 @@
     <body>
         <nav class="navbar navbar-expand-lg navbar-light">
             <img src="images/profilepic.jpg" alt="profile picture" id="profile_pic">
-                  
-                      
-            
-        
+                
       <link href="styles/jaddu.css" rel="stylesheet">
       <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
@@ -46,16 +43,21 @@
         <main style="text-align: center;">
             <h2>Convert kilometers to miles</h2>
             <h3>Enter Kilometers :</h3> 
-            <input id="inputkms" type="number" placeholder="Kilometers" oninput="LengthConverter(this.value)" onchange="LengthConverter(this.value)">
+            <input id="inputkms" type="number" placeholder="Kilometers" oninput="convertmiles(this.value)" onchange="convertmiles(this.value)">
             <h3>Miles :</h3><input type="text" id="outputMiles" readonly="true">
         </br>
     </br>
             <button type="button" id="convert" onclick="convertmiles()">Convert</button>
         </main>
         <script>
-            function convertmiles(){
-                    document.getElementById("outputMiles")=document.getElemenyById("inputkms")*0.62137;
+            function convertmiles(valNum){
+                    document.getElementById("outputMiles").innerHTML*0.62137;
             }
         </script>
+         <footer>
+            <div>
+                &copy; 2020 Alekhya Jaddu
+            </div>
+               </footer>
     </body>
 </html>
